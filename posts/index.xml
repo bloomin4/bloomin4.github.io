@@ -16,5 +16,23 @@
       <description>tombkeeper 谈个人成长</description>
     </item>
     
+    <item>
+      <title>Sec Read 2019-2</title>
+      <link>https://bloomin4.github.io/posts/sec-read-2019-2/</link>
+      <pubDate>Sat, 23 Feb 2019 11:06:47 +0800</pubDate>
+      
+      <guid>https://bloomin4.github.io/posts/sec-read-2019-2/</guid>
+      <description>https://www.anquanke.com/post/id/85174 uac绕过
+http://www.4hou.com/technology/5233.html uac绕过，命令放注册表
+https://unit42.paloaltonetworks.com/unit42-new-iotlinux-malware-targets-dvrs-forms-botnet/
+http://www.mottoin.com/article/terminal/100154.html
+http://www.kerneronsec.com/2016/02/remote-code-execution-in-cctv-dvrs-of.html 僵尸网络，通过irc作为c2服务器，检测到vm会抹掉系统，通过/etc/init.d/.rebootime、/etc/cron.daily/rebootime、~/.bashrc、~/.bash_history等方法持久化
+https://unit42.paloaltonetworks.com/unit42-sofacys-komplex-os-x-trojan/ 魔幻熊组织的osx木马’komplex’，使用launchctl持久化
+https://zhuanlan.zhihu.com/p/51626965 对一个xx网站的渗透
+http://pi4net.com/2019/02/17/snap%20提权分析/
+https://github.com/initstring/dirty_sock/blob/master/dirty_sockv1.py ubuntu 自带软件管理器snap存在本地提权漏洞， 作者给了两个poc，一个需要网络，一个不需要
+http://pi4net.com/2019/01/14/小议%20APT%20攻击中的C2技术/ c2技术总结</description>
+    </item>
+    
   </channel>
 </rss>
