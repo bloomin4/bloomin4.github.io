@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bloomin4</title>
-    <link>http://example.org/</link>
+    <link>https://bloomin4.github.io/</link>
     <description>Recent content on bloomin4</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Jun 2021 17:08:17 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Jun 2021 17:08:17 +0800</lastBuildDate><atom:link href="https://bloomin4.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TK Growth</title>
-      <link>http://example.org/posts/tk-growth/</link>
+      <link>https://bloomin4.github.io/posts/tk-growth/</link>
       <pubDate>Sun, 27 Jun 2021 17:08:17 +0800</pubDate>
       
-      <guid>http://example.org/posts/tk-growth/</guid>
+      <guid>https://bloomin4.github.io/posts/tk-growth/</guid>
       <description>tombkeeper 谈个人成长</description>
     </item>
     
